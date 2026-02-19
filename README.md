@@ -1,4 +1,3 @@
-[TUDO meu.html](https://github.com/user-attachments/files/25425163/TUDO.meu.html)
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
